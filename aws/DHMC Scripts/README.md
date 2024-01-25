@@ -1,0 +1,1 @@
+These scripts help in finding and cleaning up any roles in an account that utilize conflicting SSM permissions to DHMC. This is `SSM:*` and `SSM:UpdateInstanceInformation`.
